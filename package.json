@@ -1,0 +1,16 @@
+{
+  "name": "pouchdb-topromise",
+  "version": "0.0.0",
+  "description": "pouchdb's topromise function, split out into its own repo",
+  "main": "index.js",
+  "dependencies": {
+    "argsarray": "~0.0.1",
+    "pouchdb-promise": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "apache"
+}
